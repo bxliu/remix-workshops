@@ -1,9 +1,8 @@
-## Remix 由一系列面板组成.
+## Remix 由多个面板组成。
 
-![Remix layout](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/1._Interface_introduction/images/a-layout1c.png "Remix layout")
+![a-layout1c](images/a-layout1c.png)
 
-In the **main panel** of Remix, make sure you see the **landing page**.  To navigate to the landing page, click the Remix icon ![Remix icon](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/1._Interface_introduction/images/remix-logo.png "Remix icon") on the top of the icon panel.
+在 Remix 的**主面板**中，确保您看到了**登录页面**。要导航到登录页面，请单击图标面板顶部的 Remix 图标![remix-logo](images/remix-logo.png)。
 
-- In the **Environments** section of the **landing page**, click the **Solidity** button.  This button will activate a number of plugins - you’ll see them in the icon panel (if they haven't already been activated).
-
-- Alternatively, you can activate plugins one at a time with the plugin manager. ![plugin manager](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/1._Interface_introduction/images/plugin1.png "plugin manager icon")
+- 在**登录页面**的**环境**部分中，单击 **Solidity** 按钮。此按钮将激活许多插件——您将在图标面板中看到它们（如果它们尚未激活）。
+- 或者，您可以使用插件管理器一次激活一个插件。![plugin1](images/plugin1.png)
