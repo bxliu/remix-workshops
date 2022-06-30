@@ -1,6 +1,6 @@
 在本节中，我们将创建元数据并以去中心化的方式存储它。
 
-IPFS( InterPlanetary File System)是一个用于以分布式方式存储文件的点对点网络。 Pinata.cloud 是一种固定服务，允许用户在 IPFS 网络上轻松托管文件。
+IPFS（InterPlanetary File System）是一个用于以分布式方式存储文件的点对点网络。 Pinata.cloud 是一种固定服务，允许用户在 IPFS 网络上轻松托管文件。
 
 我们想在 IPFS 上托管我们的图像和 JSON 文件及其元数据。
 
