@@ -14,7 +14,7 @@ Global Variables are used to retrieve information about the blockchain, particul
 
 In this example, we use `block.timestamp` (line 14) to get a Unix timestamp of when the current block was generated and `msg.sender` (line 15) to get the caller of the contract function’s address.
 
-A list of all Global Variables is available in the <a href="https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=Variables#global-variables" target="_blank">Solidity documentation</a>.
+A list of all Global Variables is available in the <a href="https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=Global%20Variables#global-variables" target="_blank">Solidity documentation</a>.
 
 Watch video tutorials on <a href="https://www.youtube.com/watch?v=hl692-xJPUQ" target="_blank">State Variables</a>, <a href="https://www.youtube.com/watch?v=5Gxzwn0SQDU" target="_blank">Local Variables</a>, and <a href="https://www.youtube.com/watch?v=ryA86ZiSD-w" target="_blank">Global Variables</a>.
 
