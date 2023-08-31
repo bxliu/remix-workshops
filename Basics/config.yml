@@ -8,11 +8,11 @@ tags:
 steps:
   - name: Remix 界面介绍 
     path: interface_introduction
-  - name: 工作区 
+  - name: 工作空间
     path: workspaces
-  - name: Loading & Compiling
+  - name: 加载和编译
     path: load_and_compile
-  - name: Deploying to the Remix VM
+  - name: 部署至 Remix VM
     path: deploy_to_the_remixvm
   - name: Interacting with Functions
     path: interacting
