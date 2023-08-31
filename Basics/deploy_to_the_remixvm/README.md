@@ -1,13 +1,13 @@
-In the previous chapter, we compiled a contract  - which is to say the Solidity code has been transformed into little chunks of Ethereum Virtual Machine (EVM) bytecode.
 
-Now we will put that code on a test blockchain. 
 
-1. Click the Deploy and Run icon ![deploy & run icon](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/deploy_to_the_remixvm/images/run.png "deploy & run icon").  
+在之前的章节中，我们编译了一个合约——也就是说，solidity 代码已被转换为以太坊虚拟机（Ethereum Virtual Machine, EVM）字节码的小块。
 
-2. Select one of the **Remix VM**s from the **Environment** pulldown. 
+现在我们将该代码放在测试区块链上。
 
-4. Click the Deploy button (or the transact button in the expanded view).
+1. 点击部署和运行图标 <img src="images/run.png" alt="run" style="zoom: 67%;" />。
+2. 从环境下拉菜单中选择 **JavaScript VM**。
+3. 点击部署按钮（或展开视图中的交易按钮）。
+4. 您已将合约部署到 JSVM——在浏览器窗口内运行的模拟区块链。JSVM 是最简单、最快和最不现实的测试链。它与 Ganache 非常相似——如果您熟悉 Truffle。这不太现实，因为您不需要批准每笔交易。
 
-5. You have deployed your compiled contract to the Remix VM - a simulated blockchain that is running inside of your browser window.  The Remix VM is simple, fast test chain.  It is very similar to Ganache - if you are familiar with Truffle. It is not that realistic a chain because you don't need to approve each transaction.  
+您可以部署到其它测试链或主网。但要做到这一点，您需要连接到另一个**环境**——例如 Injected Web3 或 Web3 Provider。当您使用 Injected Web3 ——您需要安装 MetaMask。MetaMask 是一个钱包，它是一个浏览器插件。
 
-You can deploy to other test chains or to the mainnet. But to do this you'd need to connect to another **environment** - like Injected Provider.  When you use Injected Provider - you need to have MetaMask (or a similar wallet) installed. MetaMask is a wallet that is a browser plugin.    

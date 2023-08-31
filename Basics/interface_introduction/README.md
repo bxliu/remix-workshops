@@ -1,17 +1,8 @@
-## Remix is composed of four panels.
+## Remix 由多个面板组成。
 
-![Remix layout](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/interface_introduction/images/a-layout1c.png "Remix layout")
+![a-layout1c](images/a-layout1c.png)
 
-- Most plugins appear in the **Side Panel**. 
-- Editing code happens in tabs in the **Main Panel**.
-- The results of transactions and other actions are visible in the **Terminal**. 
-- Switching between plugins happens in the **Icons Panel**.
-- To make a panel larger, drag its border.
+在 Remix 的**主面板**中，确保您看到了**登录页面**。要导航到登录页面，请单击图标面板顶部的 Remix 图标![remix-logo](images/remix-logo.png)。
 
-Try clicking an icon in the **Icons Panel** to go to another plugin.  Click the **Solidity Compiler** icon and then the **Deploy & Run** icon.  Then come back **LearnEth**.
-
-In the **Main Panel** of Remix, make sure you see the **Home tab**.  The Home tab has lots of usefule links. To navigate to there, click the Remix icon ![Remix icon](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/interface_introduction/images/remix-logo.png "Remix icon") on the top of the icon panel.
-
-- In the **Featured Plugins** section of the **Home tab**, click the **Solidity** button.  This button will activate a number of plugins - you’ll see them in the icon panel.
-
-- Check out the entire list of plugins, by going to the **Plugin Manager**. ![plugin manager](https://raw.githubusercontent.com/ethereum/remix-workshops/master/Basics/interface_introduction/images/plugin1.png "Plugin Manager icon")
+- 在**登录页面**的**环境**部分中，单击 **Solidity** 按钮。此按钮将激活许多插件——您将在图标面板中看到它们（如果它们尚未激活）。
+- 或者，您可以使用插件管理器一次激活一个插件。![plugin1](images/plugin1.png)
