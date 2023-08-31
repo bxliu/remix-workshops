@@ -6,9 +6,9 @@ level: 1
 tags: 
   - Remix
 steps:
-  - name: Intro to the Interface 
+  - name: Remix 界面介绍 
     path: interface_introduction
-  - name: Intro to Workspaces 
+  - name: 工作区 
     path: workspaces
   - name: Loading & Compiling
     path: load_and_compile
